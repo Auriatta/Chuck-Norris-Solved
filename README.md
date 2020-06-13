@@ -1,2 +1,2 @@
 # Chuck-Norris-Solved
-Coding Games chellange, my unique solution for Chuck Norris puzzle
+Coding Games chellange, my solution for Chuck Norris puzzle
